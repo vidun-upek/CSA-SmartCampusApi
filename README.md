@@ -79,7 +79,7 @@ com.smartcampus.api
 
 ---
 
-<h2>🌐 Base URL</h2>
+<h2> Base URL</h2>
 
 <pre>
 http://localhost:8081/SmartCampusAPI/api/v1
@@ -131,7 +131,7 @@ http://localhost:8081/SmartCampusAPI/api/v1
 
 ---
 
-<h3>📡 Sensor Management</h3>
+<h3> Sensor Management</h3>
 
 <table border="1">
 <tr>
@@ -167,7 +167,7 @@ http://localhost:8081/SmartCampusAPI/api/v1
 
 ---
 
-<h3>📊 Sensor Readings (Sub-Resource)</h3>
+<h3> Sensor Readings (Sub-Resource)</h3>
 
 <table border="1">
 <tr>
@@ -191,7 +191,7 @@ http://localhost:8081/SmartCampusAPI/api/v1
 
 ---
 
-<h2>⚠️ Business Rules</h2>
+<h2> Business Rules</h2>
 
 <ul>
   <li>A room <b>cannot be deleted</b> if it contains sensors</li>
@@ -202,7 +202,7 @@ http://localhost:8081/SmartCampusAPI/api/v1
 
 ---
 
-<h2>❗ Error Handling</h2>
+<h2> Error Handling</h2>
 
 <table border="1">
 <tr>
@@ -243,7 +243,7 @@ http://localhost:8081/SmartCampusAPI/api/v1
 
 ---
 
-<h2>📜 Logging</h2>
+<h2> Logging</h2>
 
 <p>
 A global logging filter is implemented using:
@@ -263,7 +263,7 @@ Outgoing Response -> Status: 201
 
 ---
 
-<h2>▶️ Running the Project</h2>
+<h2> Running the Project</h2>
 
 <ol>
   <li>Clone the repository</li>
@@ -279,7 +279,7 @@ mvn clean install
 
 ---
 
-<h2>🧪 Testing</h2>
+<h2> Testing</h2>
 
 <p>
 All endpoints were tested using Postman, covering:
@@ -304,10 +304,9 @@ All endpoints were tested using Postman, covering:
 
 ---
 
-<h2>👨‍💻 Author</h2>
+<h2> Author</h2>
 
 <p><b>Vidun Shanuka</b></p>
 
 <br>
 
-<h3 align="center">🔥 Built for Client-Server Coursework 🔥</h3>
